@@ -1,0 +1,28 @@
+step1.
+npm init
+step2.
+install required packages
+step 3. 
+.env file created
+step 4 
+app.js creation // all neceesary modules(express,cors,morgan, urlencoded) install app starting commnad written
+step 5 
+database folder created in which db.js file written with ..
+mysql connection code created...
+step 6 
+Services folder created
+step 7
+Controllers folder created
+step 8 
+routes folder created
+step 9
+create service with authservice in the service folder
+import necessary packages
+db
+jwt
+md5
+exports created function..
+use promise
+
+
+
